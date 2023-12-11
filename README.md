@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-harmon05
-- 👀 I’m interested in consumer tech, economics, and gaming
-- 🌱 I’m currently learning to use frequently used data analytic tools and how large language models work. 
-- 💞️ I’m looking to collaborate on learning experiences and testing skillset with data sets
+- 👀 I am a quality assurance analyst interested in consumer tech, economic data, and gaming
+- 🌱 I’m currently learning to use utlize skillset in data analytics and expand knowledge in current technological trends
+- 💞️ I’m looking to collaborate on learning experiences and testing my skillset with data sets
 - 📫 How to reach me ...will provide soon.
 
 <!---
